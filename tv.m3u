@@ -1,4 +1,48 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/svg/logo-RCTI.svg" group-title="INDONESIA",RCTI
+https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA",GLOBAL TV
+https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="INDONESIA",SCTV
+https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="INDONESIA",MNC TV
+https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",I-NEWS TV
+https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="INDONESIA",TVRI
+https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/logowhite.png" group-title="INDONESIA",TRANSTV
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7.png" group-title="INDONESIA",TRANS 7
+https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn01.metrotvnews.com/asset/images/main/metrotv_white.png" group-title="INDONESIA",METRO TV
+https://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="INDONESIA",KOMPAS TV
+https://cdn-livetv1.metube.id/hls/kompastv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="INDONESIA",IDX CHANNEL
+https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059559_logo_mnc%20news.png" group-title="INDONESIA", MNC NEWS
+https://cdn-livetv1.metube.id/hls/mncnews_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dc/MNCSports_tegak.png/200px-MNCSports_tegak.png" group-title="INDONESIA",MNC SPORT
+https://cdn-livetv1.metube.id/hls/mncsport_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/95/MNC_Life_%282015%29.png/200px-MNC_Life_%282015%29.png" group-title="INDONESIA",MNC LIFE
+https://cdn-livetv1.metube.id/hls/mnclifestyle_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Lifestyle/MNCSHOP.png" group-title="INDONESIA",MNC SHOP
+https://cdn-livetv1.metube.id/hls/mncshop79_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Indosiar.png" group-title="INDONESIA",INDOSIAR
+https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Lifestyle/MNCSHOP.png" group-title="INDONESIA",MNC SHOP
+https://cdn-livetv1.metube.id/hls/mncshop_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/JakTV.png" group-title="INDONESIA",JAKTV
+https://cdn-livetv1.metube.id/hls/jaktv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/JTV.png" group-title="INDONESIA",JTV
+https://cdn-livetv1.metube.id/hls/jtv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="INDONESIA",RTV
+https://cdn-livetv1.metube.id/hls/rtv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Religion/Alqurankareem.png" group-title="INDONESIA",AL-QURÁN TV
+https://cdn-livetv1.metube.id/hls/alquran_480/index.m3u8
+
 # TV LOKAL #
 #EXTINF:-1 tvg-logo=" " group-title="TV  LOKAL",GTV
 https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
