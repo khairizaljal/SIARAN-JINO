@@ -116,49 +116,35 @@ http://51.15.236.137/hls/stream.m3u8
 http://163.172.138.186/hls/stream.m3u8
 
 ##### RELIGI ######
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",TVMU
-https://cdnbdsa1.useetv.com/joss/14/muhammadiyahtv/chunklist_w1106242608_b684100_sleng_201075.m3u8
-https://cdnjt14.useetv.com/joss/14/muhammadiyahtv/chunklist_w667387549_b684100_sleng_142217.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",MTA TV
-https://cdnbal1.useetv.com/joss/14/mtatv/chunklist_w1338780542_b684100_sleng_138980.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",RODJATV
-https://cdnbal1.useetv.com/joss/14/rodjatv/chunklist_w373234397_b684100_sleng_138969.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",MQTV
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png" group-title="RELIGI",MQTV
 https://cdnbal1.useetv.com/joss/14/mqtv/chunklist_w1136342416_b684100_sleng_201104.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",TV MUI
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png" group-title="RELIGI",TV MUI
 https://cdnbal1.useetv.com/joss/14/muitv/chunklist_w1438842565_b684100_sleng_10402.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",TAWAF TV
-https://cdnbal1.useetv.com/joss/14/tawaftv/chunklist_w979344880_b684100_sleng_138954.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",AlQuran Kareem 2
-https://cdnbal1.useetv.com/joss/14/alquran/chunklist_w1768877601_b684100_sleng_142491.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",AHSAN TV
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGI",TAWAF TV
+https://cdnjt25.useetv.com/joss/18/tawaftv/chunklist_w1075097233_b684100_sleng.m3u8?enc=4cDSA8FIqiw4_NUmWMiWMQ&exp=1592596154
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGI",AlQuran Kareem 2
+https://cdnjt25.useetv.com/joss/18/alquran/chunklist_w1405556817_b684100_sleng.m3u8?enc=Lv69cbehzTW7-SUEkX7zAA&exp=1592596320
+#EXTINF:-1  tvg-logo="https://ahsan.tv/wp-content/uploads/2019/12/AhsanTV-logo01.jpg" group-title="RELIGI",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",AL-IMAN TV
+#EXTINF:-1  tvg-logo="https://al-iman-l8ivnifz64sq.stackpathdns.com/site/wp-content/uploads/2018/07/icon.png" group-title="RELIGI",AL-IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",SALAM TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Salamtv.png" group-title="RELIGI",SALAM TV
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",NABAWI TV
+#EXTINF:-1  tvg-logo="https://nabawi.tv/wp-content/uploads/2019/12/logo-nabawitv-500px.png" group-title="RELIGI",NABAWI TV
 http://stream2.ninmedia.tv:80/nabawitv/nabawitv_360p/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",Ahsan TV
+#EXTINF:-1  tvg-logo="https://ahsan.tv/wp-content/uploads/2019/12/AhsanTV-logo01.jpg" group-title="RELIGI",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",AL Bahjah 
+#EXTINF:-1  tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="RELIGI",AL Bahjah 
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",ADI TV
+#EXTINF:-1  tvg-logo="https://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="RELIGI",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",SALAM TV
+https://video2.onlivestreaming.net/aditv/livestream/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Salamtv.png" group-title="RELIGI",SALAM TV
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",Iqraa TV
+#EXTINF:-1  tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="RELIGI",Iqraa TV
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",Wesal TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",Al-Bahjah TV
-https://edge.siar.us/albahjahtv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",Nabawi TV
+#EXTINF:-1  tvg-logo="https://nabawi.tv/wp-content/uploads/2019/12/logo-nabawitv-500px.png" group-title="RELIGI",Nabawi TV
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",Hidup TV
-http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="RELIGI",I AM Channel
-http://iamchannel.org:1935/tes/1/chunklist.m3u8
 
 ###### ANAK-ANAK ######
 #EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",ANIPLUS
