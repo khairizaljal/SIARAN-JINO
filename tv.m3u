@@ -132,8 +132,6 @@ http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 #EXTINF:-1  tvg-logo="https://nabawi.tv/wp-content/uploads/2019/12/logo-nabawitv-500px.png" group-title="RELIGI",NABAWI TV
 http://stream2.ninmedia.tv:80/nabawitv/nabawitv_360p/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://ahsan.tv/wp-content/uploads/2019/12/AhsanTV-logo01.jpg" group-title="RELIGI",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 #EXTINF:-1  tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="RELIGI",AL Bahjah 
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="RELIGI",ADI TV
@@ -143,9 +141,6 @@ https://video2.onlivestreaming.net/aditv/livestream/chunks.m3u8
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 #EXTINF:-1  tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="RELIGI",Iqraa TV
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-#EXTINF:-1  tvg-logo="https://nabawi.tv/wp-content/uploads/2019/12/logo-nabawitv-500px.png" group-title="RELIGI",Nabawi TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
-
 ###### ANAK-ANAK ######
 #EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",ANIPLUS
 https://cdnbal1.useetv.com/joss/14/aniplus/chunklist_w12450919_b684100_sleng_38163.m3u8
