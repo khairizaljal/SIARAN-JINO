@@ -141,57 +141,59 @@ https://video2.onlivestreaming.net/aditv/livestream/chunks.m3u8
 http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 #EXTINF:-1  tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="RELIGI",Iqraa TV
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+
 ###### ANAK-ANAK ######
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",ANIPLUS
+
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555" group-title="ANAK-ANAK",ANIPLUS
 https://cdnbal1.useetv.com/joss/14/aniplus/chunklist_w12450919_b684100_sleng_38163.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",ANIMAX
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="ANAK-ANAK",ANIMAX
 https://cdnbal1.useetv.com/joss/14/animax/chunklist_w666885368_b684100_sleng_38100.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",DUCK TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="ANAK-ANAK",DUCK TV
 https://cdnbal1.useetv.com/joss/14/ducktv/chunklist_w1731102671_b684100_sleng_13038.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",DUNIA ANAK
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="ANAK-ANAK",DUNIA ANAK
 https://cdnbal1.useetv.com/joss/14/duniaanak/chunklist_w873899480_b684100_sleng_54966.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",BOOMERANG
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="ANAK-ANAK",BOOMERANG
 https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1144003235_b684100_sleng_121.m3u8
 https://cdnbal1.useetv.com/joss/14/boomerang/chunklist_w1392885613_b684100_sleng_54965.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",NICKELODEON
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/43/0b/a0/430ba0c97a7798fc17e8f9cb4bd85e6f.jpg" group-title="ANAK-ANAK",NICKELODEON
 https://cdnbal1.useetv.com/joss/14/nickelodeon/chunklist_w1061433879_b684100_sleng_38031.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",CARTOON NETWORK
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="ANAK-ANAK",CARTOON NETWORK
 https://cdnbal1.useetv.com/joss/14/cartoonnetwork/chunklist_w1073351013_b684100_sleng_54935.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",HOREE
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest/scale-to-width-down/340?cb=20180705160440" group-title="ANAK-ANAK",HOREE
 https://cdnbal1.useetv.com/joss/14/horee/chunklist_w1882716422_b684100_sleng_37797.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",Nick JR
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="ANAK-ANAK",Nick JR
 https://cdnbal1.useetv.com/joss/14/nickjr/chunklist_w619817360_b684100_sleng_37823.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",DREAMWORK
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Dreamworks_Animation_2004.gif/revision/latest/scale-to-width-down/340" group-title="ANAK-ANAK",DREAMWORK
 https://cdnbal1.useetv.com/joss/15/dreamworks/chunklist_w750266566_b894100_sleng_176563.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK",DAVINCI
+#EXTINF:-1  tvg-logo="https://img.favpng.com/13/21/14/da-vinci-learning-logo-television-channel-svg-tv-png-favpng-sKErxgsNnm0Z2eCmmEg7uAvw4.jpg" group-title="ANAK-ANAK",DAVINCI
 https://vcdnjt.useetv.com/joss/14/davinci/chunklist_w583345061_b684100_sleng_6410.m3u8
 
 ###### ANAK-ANAK ######
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",Hore
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest/scale-to-width-down/340" group-title="ANAK-ANAK 2",Hore
 https://dl.dropbox.com/s/63s89rm1bggmna6/hore.m3u8?dl=0
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",DISNEY JUNIOR Indo SD Indo
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Disney_Junior.jpg" group-title="ANAK-ANAK 2",DISNEY JUNIOR Indo SD Indo
 http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",EBS Kids
+#EXTINF:-1  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ebs-kids-2560.jpg" group-title="ANAK-ANAK 2",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",nick
+#EXTINF:-1  tvg-logo="https://img2.pngdownload.id/20180626/xrv/kisspng-nickelodeon-nick-jr-logo-tv-viacom-media-networks-5b3282527dc9f6.6053185015300368185153.jpg" group-title="ANAK-ANAK 2",nick
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",AniPlus
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555" group-title="ANAK-ANAK 2",AniPlus
 https://cdnbal1.useetv.com/joss/14/aniplus/chunklist_w12450919_b684100_sleng_38163.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",Ben 10
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/bc/Ben_10_logo.svg/1200px-Ben_10_logo.svg.png" group-title="ANAK-ANAK 2",Ben 10
 http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",GEM KIDS
+#EXTINF:-1  tvg-logo="https://soltaan.com/wp-content/uploads/2019/10/gemkids.png" group-title="ANAK-ANAK 2",GEM KIDS
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",GEM JUNIOR
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/5/58/GEM_Junior_%28Logo%29.jpg/revision/latest/scale-to-width-down/340?cb=20161212140305" group-title="ANAK-ANAK 2",GEM JUNIOR
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",KBS2HD LARVA
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/larva-animation/images/6/63/Larva_logo_400x400-300x300.png/revision/latest?cb=20181221111455" group-title="ANAK-ANAK 2",KBS2HD LARVA
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",3ABNKIDS.TV
+#EXTINF:-1  tvg-logo="https://www.truli.com/sites/default/files/3abnkids-800x450.jpg" group-title="ANAK-ANAK 2",3ABNKIDS.TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",BOING
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png" group-title="ANAK-ANAK 2",BOING
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",BEBY FIRST
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/Babyfirst-logo.png" group-title="ANAK-ANAK 2",BABY FIRST
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="ANAK-ANAK 2",GEM Kids
+#EXTINF:-1  tvg-logo="https://soltaan.com/wp-content/uploads/2019/10/gemkids.png" group-title="ANAK-ANAK 2",GEM Kids
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 
 ###### PENGETAHUAN ######
