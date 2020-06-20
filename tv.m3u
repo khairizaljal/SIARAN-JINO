@@ -10,7 +10,7 @@ https://cdnbal1.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_887
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/gkSj8bbh/mnc.jpg" group-title=" INDONESIA",MNC HD
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/X7zNXK9c/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-Hu-Upnwftig.jpg" group-title=" INDONESIA",GTV
-http://vpssg.iptv.my.id:19408/session/dyosCH/local/gtv.m3u8
+https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/skrz1j8exe/globaltv2_576p/chunks.m3u8?nimblesessionid=174551783&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDc6MDI6MzcgQU0maGFzaF92YWx1ZT1Id1pTWFczSU9acGtCRW5FSmh2cTd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE3ODA5ODAzfDM2Ljg4LjEyNS4yMTI=
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QMLXJX4F/inews.jpg" group-title=" INDONESIA",INEWS
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/XJ44ts03/logo-antv.jpg" group-title=" INDONESIA",ANTV
@@ -23,8 +23,8 @@ https://cdnbal1.useetv.com/joss/15/trans7/chunklist_w1257963285_b894100_sleng_30
 https://cdnbal1.useetv.com/joss/15/transtv/chunklist_w1373123111_b894100_sleng_307580.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title=" INDONESIA",NET
 https://cdnbal1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Qx9G42W1/logo-rtv-rajawali-televisi.jpg" group-title=" INDONESIA",RTV
-https://cdnbal1.useetv.com/joss/14/rtv/chunklist_w56964414_b684100_sleng_121748.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Qx9G42W1/logo-rtv-rajawali-televisi.jpg" group-title="USEETV  INDONESIA",RTV
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/rajawalitv.stream_all/skrz1j8exe/rajawalitv.stream_576p/chunks.m3u8?nimblesessionid=168490338&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDY6MTQ6MTggQU0maGFzaF92YWx1ZT1KZWo1RW5ZamZXTmY4b1pMdHU2S0h3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTYzNjg1MzY1fDM2Ljg4LjEyNS4yMTI=
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/x1LrYL5d/idkuHD.jpg" group-title=" INDONESIA",IDKU
 https://vcdnjt.useetv.com/joss/15/idku/chunklist_w1497349848_b894100_sleng_475497.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title=" INDONESIA",Metro TV
@@ -51,9 +51,9 @@ http://vpssg.iptv.my.id:19408/session/dyosCH/local/ochannel.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HktgXQyh/512x512bb.jpg" group-title=" INDONESIA",TV EDUKASI
 https://cdnbal1.useetv.com/joss/14/tvedukasi/chunklist_w1106170680_b684100_sleng_122400.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title=" INDONESIA",JAKTV
-https://cdnbal1.useetv.com/joss/14/jaktv/chunklist_w1342810570_b684100_sleng_122404.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1592134690~acl=/hls-p/ingest_5415_*/*~hmac=2302e6485ab3ee2d152c54f3e1bc6e64afe0d5b9ab4b73392ef56fd66800ec84/hls-p/ingest_5415_480p/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/hjXWk63k/JtvBaru.jpg" group-title=" INDONESIA",JTV
-https://cdnbal1.useetv.com/joss/14/jtv/chunklist_w149234900_b684100_sleng_122413.m3u8
+https://vcdnjt.useetv.com/joss/14/jtv/chunklist_w1026369481_b684100_sleng.m3u8?enc=1QqjCBzs0sT7zuGfFLFsbg&exp=1592125735
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/d1yNmYfV/Citra-Drama.jpg" group-title=" INDONESIA",CITRA DRAMA
 https://cdnbal1.useetv.com/joss/14/cdrama/chunklist_w516557647_b684100_sleng_13343.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/j2YgM1VQ/USEEPHOTO.jpg" group-title=" INDONESIA",USEE PHOTO
@@ -65,7 +65,7 @@ https://cdnbal1.useetv.com/joss/15/useeinfo/chunklist_w1221836156_b894100_sleng_
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7YDt7jnq/r-WGFh-w-L-400x400.jpg" group-title=" INDONESIA",DIGDAYATV
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/XN8kfvLq/20130928lkbn-antara.jpg" group-title=" INDONESIA",ANTARA
-https://cdnbal1.useetv.com/joss/14/antara/chunklist_w1644761459_b684100_sleng_122661.m3u8
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antaratv_all/skrz1j8exe/antaratv_480p/chunks.m3u8?nimblesessionid=168496807&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIwIDc6MDI6MzcgQU0maGFzaF92YWx1ZT1Id1pTWFczSU9acGtCRW5FSmh2cTd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE3ODA5ODAzfDM2Ljg4LjEyNS4yMTI=
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8zXZ2cQC/Dunia-Lain.jpg" group-title=" INDONESIA",DUNIA LAIN
 https://cdnbal1.useetv.com/joss/14/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/tRd2X2Qw/Flik.jpg" group-title=" INDONESIA",FLIK
