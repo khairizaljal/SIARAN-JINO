@@ -368,21 +368,21 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 ### VOD ###
-#EXTINF:-1 tvg-logo="https://bit.ly/312dRgv" group-title="VOD",IRON MAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d5/Iron_Man_3_theatrical_poster.jpg/220px-Iron_Man_3_theatrical_poster.jpg" group-title="VOD",IRON MAN
 http://www.deadlyblogger.com/NewRelease/ironman1.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/312dRgv" group-title="VOD",DAYS LATER
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTFkM2ViMmQtZmI5NS00MjQ2LWEyN2EtMTI1ZmNlZDU3MTZjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD",DAYS LATER
 http://www.deadlyblogger.com/NewRelease/28days.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/312dRgv" group-title="VOD",RONIN
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVkYzliZGEtODIxMi00MDQwLThjMDAtNzI3M2NjYjg4NDE5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,676,1000_AL_.jpg" group-title="VOD",RONIN
 http://www.deadlyblogger.com/NewRelease/47ronin.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/312dRgv" group-title="VOD",A HAUNTED HOUSE 2 (COMEDY)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1ODgyOTI0NF5BMl5BanBnXkFtZTcwODgyMDY3OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD",A HAUNTED HOUSE 2 (COMEDY)
 http://www.deadlyblogger.com/NewRelease/haunted2.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/312dRgv" group-title="VOD",A NIGHT AT ROXBURY
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTczZmEyYWMtMTE5MC00YzcyLWJhMDAtZDA5Mzg2YmQwNWQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="VOD",A NIGHT AT ROXBURY
 http://www.deadlyblogger.com/NewRelease/roxbury.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/312dRgv" group-title="VOD",AFTER EARTH
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3MzQyMjkwMl5BMl5BanBnXkFtZTcwMDk2OTE0OQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD",AFTER EARTH
 http://www.deadlyblogger.com/NewRelease/after.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/312dRgv" group-title="VOD",MAN OF TAI CHI
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcyYzQ1MzItYWI0My00NjE4LTk1YWEtNjc2NjIyOTliZjExXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,662,1000_AL_.jpg" group-title="VOD",MAN OF TAI CHI
 http://www.deadlyblogger.com/NewRelease/tai.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/312dRgv" group-title="VOD",ALI
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA3OTUxNTktN2FlNC00NGUyLWI1NDktY2FlZTc5MDlmOGFhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="VOD",ALI
 http://www.deadlyblogger.com/NewRelease/ali1.mp4
 
 ### TV LUAR ###
