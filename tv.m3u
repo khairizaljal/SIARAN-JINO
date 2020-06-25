@@ -1,10 +1,10 @@
 #EXTM3U
 ######## USEETV INDONESIA #########
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/mDcsGrwS/RCTI.jpg" group-title=" INDONESIA",RCTI
-http://iptv.burhansyam.com/rcti.m3u8
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/D070d2zr/Indosiar-09.jpg" group-title=" INDONESIA",INDOSIAR
-https://cdnbal1.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
+https://vcdnjt.useetv.com:443/joss/15/indosiar/chunklist_w216473056_b684100_sleng_177560.m3u8?enc=fNhkrkjP1SfsMprexUm1ZA&exp=1587469129
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NffLKfSY/sctv.jpg" group-title=" INDONESIA",SCTV
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
@@ -13,7 +13,7 @@ https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 http://iptv.burhansyam.com/mnctv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/X7zNXK9c/hut-global-tv-bertransformasi-jadi-gtv-sebarkan-semangat-inspirasi-dan-motivasi-Hu-Upnwftig.jpg" group-title=" INDONESIA",GTV
-http://iptv.burhansyam.com/globaltvhd.m3u8
+https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QMLXJX4F/inews.jpg" group-title=" INDONESIA",INEWS
 https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
@@ -22,13 +22,13 @@ https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 https://cdnbal1.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title=" INDONESIA",TVONE
-https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1407325584_b894100_sleng_519110.m3u8
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title=" INDONESIA",TRANS7
-https://cdnbal1.useetv.com/joss/15/trans7/chunklist_w1257963285_b894100_sleng_307574.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NMdqSY47/logo-transtv.jpg" group-title=" INDONESIA",TRANSTV
-https://cdnbal1.useetv.com/joss/15/transtv/chunklist_w1373123111_b894100_sleng_307580.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title=" INDONESIA",NET
 https://cdnbal1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
