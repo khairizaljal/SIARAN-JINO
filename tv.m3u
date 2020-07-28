@@ -3,11 +3,11 @@
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/mDcsGrwS/RCTI.jpg" group-title="INDONESIA",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/D070d2zr/Indosiar-09.jpg" group-title="INDONESIA",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1593284587~acl=/hls-p/ingest_geo_205_*/*~hmac=d259a553400e5ce62c36be97c2ce5645998661e65b12d507cb4a69cdcea27c2c/hls-p/ingest_geo_205_720p/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/D070d2zr/Indosiar-09.jpg" group-title="INDONESIA",INDOSIAR (Tidak Bisa)
+http://brhn.xyz/vidiodotcom/indosiarbackup.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/NffLKfSY/sctv.jpg" group-title="INDONESIA",SCTV
-https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/NffLKfSY/sctv.jpg" group-title="INDONESIA",SCTV 
+http://45.126.83.51/session/d80df878-8cad-11ea-bfcb-b2cb8b1764b3/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/gkSj8bbh/mnc.jpg" group-title="INDONESIA",MNC HD
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -19,10 +19,10 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/XJ44ts03/logo-antv.jpg" group-title="INDONESIA",ANTV 
-http://rr2.dens.tv/s/s07/index2.m3u8
+http://rr2.dens.tv:80/s/s07/01.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="INDONESIA",TVONE
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFgTARdUUoRaUnD1ZNTomdA)/dm/3/x619221/s/live-3.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="INDONESIA",TVONE (Tidak Bisa)
+https://youtu.be/LReqTS5bsBU
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="INDONESIA",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -30,20 +30,20 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NMdqSY47/logo-transtv.jpg" group-title="INDONESIA",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="INDONESIA",NET
-http://iptv.burhansyam.com/vidio/net.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="INDONESIA",NET 
+https://bangmujerhasibuan.my.id/iptv/m3u/vidio.com/NET.HD/nettv-875.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="INDONESIA",O Channel
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="INDONESIA",O Channel (Tidak Bisa)
 http://brhn.xyz/vidiodotcom/ochanel.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title="INDONESIA",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="INDONESIA",KOMPAS TV
-http://brhn.xyz/vidiodotcom/kompastv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="INDONESIA",KOMPAS TV 
+https://bangmujerhasibuan.my.id/iptv/m3u/vidio.com/kompas/874-kompastv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="INDONESIA",RTV
-http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+http://210.210.155.35/session/357a2d5e-4a57-11ea-981e-b82a72d63267/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bvLBNgtq/index.jpg" group-title="INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -52,27 +52,27 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/855nFvRM/berita-satu.jpg" group-title="INDONESIA",BERITA_SATU_HD 
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/76WtSL9c/13-beritasatu.jpg" group-title="INDONESIA",BERITA_SATU_WORLD 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MHfP58rG/unnamed.jpg" group-title="INDONESIA",RRI NET
-http://82.118.242.137:8080/1120puric/wZ5QnpJLCK/78282
+http://36.89.47.217:11935/rrinet/live/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/HWfdgWmB/TVRI.jpg" group-title="INDONESIA",TVRI
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/HWfdgWmB/TVRI.jpg" group-title="INDONESIA",TVRI 
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HWfdgWmB/TVRI.jpg" group-title="INDONESIA",TVRI 3
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="INDONESIA",JAKTV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="INDONESIA",JAKTV (Tidak Bisa)
 http://iptv.burhansyam.com/vidio/jaktv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/hjXWk63k/JtvBaru.jpg" group-title="INDONESIA",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w397581365.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Dfj1ypXm/16-BALI-TV.jpg" group-title="INDONESIA",BALI TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Dfj1ypXm/16-BALI-TV.jpg" group-title="INDONESIA",BALI TV (Tidak Bisa)
 https://vcdnjt.useetv.com/joss/18/balitv/chunklist_w349493769_b684100_sleng.m3u8?enc=vabuUZ_SJ6k7FexKSuLqKA&exp=1593145379
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7YDt7jnq/r-WGFh-w-L-400x400.jpg" group-title="INDONESIA",DIGDAYATV
@@ -87,8 +87,8 @@ https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="INDONESIA",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FH5Nh1rY/1-CTV-BANTEN.jpg" group-title="INDONESIA",CTV BANTEN (TIDAK BISA)
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FH5Nh1rY/1-CTV-BANTEN.jpg" group-title="INDONESIA",CTV BANTEN 
+http://103.23.201.170:1935/live/livestream/chunklist_w1878993734.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/43wgv5zc/2-ADI-TV.jpg" group-title="INDONESIA",ADI TV (TIDAK BISA)
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
@@ -98,6 +98,36 @@ http://202.150.153.254/bandungtv720p.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/gJTbQ2tk/4-AREK-TV.jpg" group-title="INDONESIA",AREK TV
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5tfJFGF1/5-MGS-TV.jpg" group-title="INDONESIA",MGS TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QQqVwfB/7-LOMBOK-TV.jpg" group-title="INDONESIA",LOMBOK TV
+http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/JhTh7mYS/8-BETV-BENGKULU.jpg" group-title="INDONESIA",BETV Bengkulu
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/sxGCrCbP/9-RTV-RIAU.jpg" group-title="INDONESIA",RTV Riau
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MXk2Zr8C/10-SBO-TV-SURABAYA.jpg" group-title="INDONESIA",SBO TV Surabaya
+http://122.248.43.138:1935/ch13/myStream/live.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/XNrrJGbL/11-BTV-BALIKPAPAN.jpg" group-title="INDONESIA",BTV Balikpapan
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/BQDtTrt1/12-JEK-TV-JAMBI.jpg" group-title="INDONESIA",Jek TV Jambi
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MpSHd9j3/13-JAMBI-TV.jpg" group-title="INDONESIA",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/bw9JM1xy/14-RBTV-BENGKULU.jpg" group-title="INDONESIA",RBTV Bengkulu
+http://122.248.43.138:1935/ch12/myStream/live.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/jjq5rCcz/15-RCTV-CIREBON.jpg" group-title="INDONESIA",RCTV Cirebon
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
 
 
 
