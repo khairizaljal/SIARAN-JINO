@@ -3,11 +3,11 @@
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/mDcsGrwS/RCTI.jpg" group-title="INDONESIA",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/D070d2zr/Indosiar-09.jpg" group-title="INDONESIA",INDOSIAR (Tidak Bisa)
-http://brhn.xyz/vidiodotcom/indosiarbackup.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/D070d2zr/Indosiar-09.jpg" group-title="INDONESIA",INDOSIAR 
+http://dikatv.000webhostapp.com/indosiar.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NffLKfSY/sctv.jpg" group-title="INDONESIA",SCTV 
-http://45.126.83.51/session/d80df878-8cad-11ea-bfcb-b2cb8b1764b3/qwr9ew/s/s03/01.m3u8
+http://dikatv.000webhostapp.com/sctv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/gkSj8bbh/mnc.jpg" group-title="INDONESIA",MNC HD
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -21,41 +21,41 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/XJ44ts03/logo-antv.jpg" group-title="INDONESIA",ANTV 
 http://rr2.dens.tv:80/s/s07/01.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="INDONESIA",TVONE (Tidak Bisa)
-https://youtu.be/LReqTS5bsBU
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/pV0R1Qcb/TVone.jpg" group-title="INDONESIA",TVONE 
+https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybDKTERfzGJgjaC29V-MOVmY)/dm/3/x619221/s/live-2.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fbhN08yX/trans7-300x180.jpg" group-title="INDONESIA",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://dikatv.000webhostapp.com/trans7.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/NMdqSY47/logo-transtv.jpg" group-title="INDONESIA",TRANSTV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+http://dikatv.000webhostapp.com/transtv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/L57d4TGJ/net.jpg" group-title="INDONESIA",NET 
-https://bangmujerhasibuan.my.id/iptv/m3u/vidio.com/NET.HD/nettv-875.m3u8
+http://dikatv.000webhostapp.com/nethd.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="INDONESIA",O Channel (Tidak Bisa)
-http://brhn.xyz/vidiodotcom/ochanel.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/o_channel_id.jpg" group-title="INDONESIA",O Channel 
+http://dikatv.000webhostapp.com/ochannel.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CK4WnYWT/metro-tv-Logo-Vector-Stasiun-Televisi.jpg" group-title="INDONESIA",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/sgYLbsfQ/20110905015310-Kompas-TV.jpg" group-title="INDONESIA",KOMPAS TV 
-https://bangmujerhasibuan.my.id/iptv/m3u/vidio.com/kompas/874-kompastv.m3u8
+http://dikatv.000webhostapp.com/kompastv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/Rtv.png" group-title="INDONESIA",RTV
-http://210.210.155.35/session/357a2d5e-4a57-11ea-981e-b82a72d63267/qwr9ew/s/s12/01.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Qx9G42W1/logo-rtv-rajawali-televisi.jpg" group-title="INDONESIA",RTV
+http://dikatv.000webhostapp.com/rtv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bvLBNgtq/index.jpg" group-title="INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/220px-CNBC_Indonesia.png" group-title="INDONESIA",CNBC Indonesia
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MG72549W/CNBC.jpg" group-title="INDONESIA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/855nFvRM/berita-satu.jpg" group-title="INDONESIA",BERITA_SATU_HD 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/76WtSL9c/13-beritasatu.jpg" group-title="INDONESIA",BERITA_SATU_WORLD 
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+https://b1world.beritasatumedia.com/Beritasatu/B1World_960x540.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MHfP58rG/unnamed.jpg" group-title="INDONESIA",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
@@ -66,8 +66,11 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HWfdgWmB/TVRI.jpg" group-title="INDONESIA",TVRI 3
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="INDONESIA",JAKTV (Tidak Bisa)
-http://iptv.burhansyam.com/vidio/jaktv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/26Ymfm1b/Logo-tvedukasi-baru.jpg" group-title="INDONESIA",TV EDUKASI
+http://dikatv.000webhostapp.com/tvedukasi.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QM4ZnhSg/20101204124741-Jak-TV-logo-2010.jpg" group-title="INDONESIA",JAKTV 
+http://dikatv.000webhostapp.com/jaktv.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/hjXWk63k/JtvBaru.jpg" group-title="INDONESIA",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w397581365.m3u8
@@ -81,8 +84,8 @@ https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/tRd2X2Qw/Flik.jpg" group-title="INDONESIA",FLIK (TIDAK BISA)
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="INDONESIA",MYTV (TIDAK BISA)
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/jSJs21qR/MyTv-2.jpg" group-title="INDONESIA",MYTV 
+http://dikatv.000webhostapp.com/mytv.m3u8
 
 #EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="INDONESIA",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
@@ -90,8 +93,17 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FH5Nh1rY/1-CTV-BANTEN.jpg" group-title="INDONESIA",CTV BANTEN 
 http://103.23.201.170:1935/live/livestream/chunklist_w1878993734.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/43wgv5zc/2-ADI-TV.jpg" group-title="INDONESIA",ADI TV (TIDAK BISA)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/43wgv5zc/2-ADI-TV.jpg" group-title="INDONESIA",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/cJrfc1rG/18-Batu-TV.jpg" group-title="INDONESIA",BATU TV
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Mp0L8DDp/19-dhamma-tv.jpg" group-title="INDONESIA",DHAMMA TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/tJ54cJD4/17-BAYU-TV-NGANJUK.jpg" group-title="INDONESIA",BAYU TV NGANJUK
+https://5bf7b725107e5.streamlock.net/bayutv/live/chunklist_w1362652903.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/CxGY5Y5m/3-BANDUNG-TV.jpg" group-title="INDONESIA",BANDUNG TV
 http://202.150.153.254/bandungtv720p.m3u8
@@ -128,6 +140,34 @@ http://122.248.43.138:1935/ch12/myStream/live.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/jjq5rCcz/15-RCTV-CIREBON.jpg" group-title="INDONESIA",RCTV Cirebon
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
+
+###### VIDIO.COM ######
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0BwzgMY/9-LOVENATURE.jpg" group-title="VIDIO.COM",LOVE NATURE (TIDAK BISA)
+http://dikatv.000webhostapp.com/lovenature.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c1kVwZ4f/Champion-TV-1.jpg" group-title="VIDIO.COM",CHAMPION 1 (TIDAK BISA)
+http://dikatv.000webhostapp.com/championtv1.php
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/vHpk2znB/tv-champion.jpg" group-title="VIDIO.COM",CHAMPION 2 (TIDAK BISA)
+http://dikatv.000webhostapp.com/championtv2.php
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CKwthNR6/champions-tv-3-952d29.jpg" group-title="VIDIO.COM",CHAMPION 3 (TIDAK BISA)
+http://dikatv.000webhostapp.com/championtv3.php
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QMgnryF9/6-TVN-TV.jpg" group-title="VIDIO.COM",TVN (TIDAK BISA)
+http://dikatv.000webhostapp.com/tvn.php
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/T1NXrwNn/citra-bioskop-channel-tv-logo.jpg" group-title="VIDIO.COM",CITRA BIOSKOP (TIDAK BISA)
+http://dikatv.000webhostapp.com/citrabioskop.php
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/d1yNmYfV/Citra-Drama.jpg" group-title="VIDIO.COM",CITRA DRAMA (TIDAK BISA)
+http://dikatv.000webhostapp.com/citradrama.php
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/K8JHqznW/citra-dangdut.jpg" group-title="VIDIO.COM",CITRA DANGDUT (TIDAK BISA)
+http://dikatv.000webhostapp.com/citradangdut.php
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/JzMx71yb/8-Arirang-TV.jpg" group-title="VIDIO.COM",ARIRANG TV (TIDAK BISA)
+http://dikatv.000webhostapp.com/arirangtv.php
 
 
 
